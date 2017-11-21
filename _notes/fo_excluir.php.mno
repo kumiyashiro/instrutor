@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsFo" value="name:fo_id;datatype:int,name:fo_data;datatype:string,name:fo_tipo;datatype:string,name:fo_fato;datatype:blob,name:fo_obs;datatype:blob,name:fo_resp;datatype:string,name:fo_cpf;datatype:string" />
+</info>

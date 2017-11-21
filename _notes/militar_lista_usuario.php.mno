@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsMil" value="name:mil_id;datatype:int,name:mil_nomecompleto;datatype:string,name:mil_datanasc;datatype:string,name:mil_pai;datatype:string,name:mil_mae;datatype:string,name:mil_ctt;datatype:string,name:mil_naturalidade;datatype:string,name:mil_end;datatype:string,name:mil_pgrad;datatype:string,name:mil_nomeguerra;datatype:string,name:mil_idtmil;datatype:string,name:mil_cpf;datatype:string,name:mil_dataincorp;datatype:string,name:mil_pel;datatype:string,name:mil_funcao;datatype:string,name:mil_foto;datatype:string,name:mil_antiguidade;datatype:string,name:mil_situacao;datatype:string" />
+	<infoitem key="UD_rsLogin" value="name:usu_id;datatype:int,name:usu_nome;datatype:string,name:usu_senha;datatype:string,name:usu_tipo;datatype:string" />
+</info>

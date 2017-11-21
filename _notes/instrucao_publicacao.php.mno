@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsLogin" value="name:usu_id;datatype:int,name:usu_nome;datatype:string,name:usu_senha;datatype:string,name:usu_tipo;datatype:string" />
+	<infoitem key="UD_rsInst" value="name:inst_id;datatype:int,name:inst_data;datatype:string,name:inst_assunto;datatype:string,name:inst_titulo;datatype:blob,name:inst_texto;datatype:blob,name:inst_situacao;datatype:string,name:inst_resp;datatype:string" />
+</info>

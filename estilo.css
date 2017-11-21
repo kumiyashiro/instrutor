@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Larger Side Border */
+
+.TFbordaEsqLogin {
+	width: 180px;
+	border: 1px solid #000;
+	border-left: 5px solid #093;
+}
+
+.TFbordaEsqPesquisa {
+	width: 500px;
+	border: 1px solid #000;
+	border-left: 5px solid #226811;
+}
+
+.Barra{
+	
+	border: 0px solid #000;
+	border-top: 3px solid #226811;
+}
+.Barra2{
+	
+	border: 0px solid #CCC;
+	border-top: 1px solid #CCC;
+}
+
+.cor_fonte_login_branco
+{
+	color:#FFF;
+	font-size:12px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+.cor_fonte_logo
+{
+	color:#000;
+	font-size:20px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+.cor_fonte_negado
+{
+	color:#F00;
+	font-size:13px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+.fonte_geral
+{
+	color: #000;
+	font-size:13px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+.fonte_TITULO
+{
+	color: #000;
+	font-size:30px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+.fonte_resultadopesquisa
+{
+	color: #000;
+	font-size:14px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+.fonte_geral2
+{
+	color: #030;
+	font-size:13px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}

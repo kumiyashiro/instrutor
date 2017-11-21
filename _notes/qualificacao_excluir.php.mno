@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsQual" value="name:qual_id;datatype:int,name:qual_cpf;datatype:string,name:qual_qualific;datatype:blob,name:qual_resp;datatype:string" />
+</info>
